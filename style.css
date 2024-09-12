@@ -1,0 +1,50 @@
+
+.nav {
+    max-width: 100vw;
+    background: linear-gradient();
+    padding: 1%;
+    background: linear-gradient(
+    black,
+black ,
+black,
+black
+    );
+  }
+  .nav_sub {
+    display: inline-block;
+    margin-inline:7%;
+    color: white;
+  }
+  .active {
+    background-color: white;
+    color: black;
+    padding: 1% 2%;
+  }
+  .div1 {
+    background-image: url("main.avif");
+    height: 400px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .div2 {
+    height: 400px;
+    width: 100%;
+  }
+  .div2 > img {
+    margin: 1%;
+    width: 30%;
+    height: 95%;
+  }
+  .div3 {
+    padding: 2%;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+  }
+  .div3-ptag {
+    width: 50%;
+    display: inline-block;
+    color: white;
+   }
